@@ -1,0 +1,3 @@
+[submodule "emsys-website-backend"]
+	path = emsys-website-backend
+	url = https://github.com/Project-Homepage-Emsys/Emsys-Homepage-Backend.git
