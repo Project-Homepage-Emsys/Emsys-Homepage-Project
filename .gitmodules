@@ -1,3 +1,6 @@
 [submodule "emsys-website-backend"]
 	path = emsys-website-backend
 	url = git@github.com:Project-Homepage-Emsys/Emsys-Homepage-Backend.git 
+[submodule "emsys-website-frontend"]
+	path = emsys-website-frontend
+	url = git@github.com:Project-Homepage-Emsys/Emsys-Homepage-Frontend.git
